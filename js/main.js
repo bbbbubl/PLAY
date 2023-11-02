@@ -16,7 +16,7 @@ const scriptUrls = [
     "js/rmmz_windows.js",
     "js/plugins.js",
     "js/phaser-plugin-virtual-gamepad.js",
-    "js/phaser.mis.js"
+    "js/phaser.min.js"
 ];
 const effekseerWasmUrl = "js/libs/effekseer.wasm";
 
